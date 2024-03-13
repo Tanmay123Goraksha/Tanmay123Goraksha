@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmay123goraksha&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay123goraksha" /> </p>
 
 - 📫 How to reach me **tanmay.goraksha@somaiya.edu**
+- Website = https://tanmay123goraksha.github.io/Personal-Website/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
